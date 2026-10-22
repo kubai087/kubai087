@@ -2,7 +2,7 @@
 
 Product designer. I draw app icons, and I build the tools I want to use every day.
 
-我是枯白，画 App 图标，也写自己每天想用的小工具。
+我是枯白（枯白啃设计），画 App 图标，也写自己每天想用的小工具。
 
 <!--
 Icon showcase: drop 4 or 6 square PNGs (512px or larger) into assets/icons/ and uncomment.
