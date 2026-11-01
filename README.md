@@ -1,21 +1,12 @@
+<a href="https://www.kubai.design/">
+  <img src="./assets/icon-banner.webp" alt="A grid of app icons designed by Kubai" width="100%" />
+</a>
+
 ## Hi, I'm Kubai
 
 Product designer. I draw app icons, and I build the tools I want to use every day.
 
 我是枯白（枯白啃设计），画 App 图标，也写自己每天想用的小工具。
-
-<!--
-Icon showcase: drop 4 or 6 square PNGs (512px or larger) into assets/icons/ and uncomment.
-
-<p>
-  <img src="./assets/icons/01.png" alt="" width="15%" />
-  <img src="./assets/icons/02.png" alt="" width="15%" />
-  <img src="./assets/icons/03.png" alt="" width="15%" />
-  <img src="./assets/icons/04.png" alt="" width="15%" />
-  <img src="./assets/icons/05.png" alt="" width="15%" />
-  <img src="./assets/icons/06.png" alt="" width="15%" />
-</p>
--->
 
 ### Lumno
 
