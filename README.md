@@ -2,11 +2,9 @@
   <img src="./assets/icon-banner.webp" alt="A grid of app icons designed by Kubai" width="100%" />
 </a>
 
-## Hi, I'm Kubai
+## Hi, I'm Kubai (@枯白啃设计)
 
-Product designer. The grid above is a slice of the app icons I've drawn. When a tool I want doesn't exist, I build it myself.
-
-我是枯白，产品设计师。上面是我画过的一部分 App 图标；想用的工具找不到，就自己动手写一个。
+Product designer. I draw app icons, build small, well-made tools, and share design tips for vibe-coded apps.
 
 ### Lumno
 
