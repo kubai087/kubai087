@@ -4,9 +4,9 @@
 
 ## Hi, I'm Kubai
 
-Product designer. I draw app icons, and I build the tools I want to use every day.
+Product designer. The grid above is a slice of the app icons I've drawn. When a tool I want doesn't exist, I build it myself.
 
-我是枯白（枯白啃设计），画 App 图标，也写自己每天想用的小工具。
+我是枯白，产品设计师。上面是我画过的一部分 App 图标；想用的工具找不到，就自己动手写一个。
 
 ### Lumno
 
@@ -14,10 +14,12 @@ Product designer. I draw app icons, and I build the tools I want to use every da
   <img src="./assets/lumno-banner.webp" alt="Lumno command bar: search tabs, bookmarks and history from any page" width="100%" />
 </a>
 
-A free, open-source command bar and new tab for Chrome, Edge and Firefox. One shortcut to search your open tabs, bookmarks and history from any page.
+One shortcut, from any page: search your open tabs, bookmarks and history. A free, open-source command bar and new tab for Chrome, Edge and Firefox.
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/nggfkkbmogmadfoikakkfegkoilfcfao) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pfbklkaefmfamjpibfiapaiihlddhchc) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/lumno-command-bar-new-tab/) · [Website](https://lumno.kubai.design/) · [Source](https://github.com/kubai087/lumno-extension)
 
 ### Elsewhere
 
-[kubai.design](https://www.kubai.design/) · [X](https://x.com/Kubai087) · [小红书](https://www.xiaohongshu.com/user/profile/5f30130300000000010006eb) (icon work and tutorials) · [i@kubai.design](mailto:i@kubai.design)
+[![X: 6k followers](https://img.shields.io/badge/X-6k%20followers-555?logo=x)](https://x.com/Kubai087) [![小红书: 6k followers](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-6k%20followers-ff2442?logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5f30130300000000010006eb)
+
+[kubai.design](https://www.kubai.design/) · [i@kubai.design](mailto:i@kubai.design)
